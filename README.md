@@ -1,4 +1,5 @@
 📈 Simple Linear Regression from Scratch
+
 📌 Project Overview
 
 This project implements Simple Linear Regression from scratch using Python without relying on sklearn's built-in LinearRegression model.
